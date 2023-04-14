@@ -11,6 +11,8 @@ https://www.morikita.co.jp/books/mid/085711
 
 ![085711cvr](https://user-images.githubusercontent.com/6063541/213907253-a3718b4d-8a66-49e4-84a2-650789dd73a3.jpg)
 
+- サンプルコード変更点
+
 |<br>|TA-LIb|pandas_ta|
 |--|--|--|
 |import文	| import talib as ta	| import pandas_ta as ta |
